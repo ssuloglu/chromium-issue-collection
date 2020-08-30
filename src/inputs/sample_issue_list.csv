@@ -1,0 +1,2 @@
+issue_id,issue_owner,issue_status,issue_type,issue_components,issue_title
+1092867,groeck@chromium.org,WontFix,Bug-Security,OS>Kernel,CVE-2019-20810 CrOS: Vulnerability reported in Linux kernel
